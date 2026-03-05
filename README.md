@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Rishab Chandgothia 👋</h1>
   <h3>Web Developer | Problem Solver | Vibe Coder</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rishab11250&style=flat-square&color=blue" alt="Profile Views" />
   <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
 </div>
 
@@ -39,14 +39,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🐍 My Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 📫 Let's Connect
