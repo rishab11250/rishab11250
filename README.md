@@ -1,57 +1,97 @@
 <div align="center">
-  <h1>Hi there, I'm Rishab Chandgothia 👋</h1>
-  <h3>Web Developer | Problem Solver | Vibe Coder</h3>
-  <img src="https://komarev.com/ghpvc/?username=rishab11250&style=flat-square&color=blue" alt="Profile Views" />
-  <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rishab%20Chandgothia&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=53" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Secure+Applications;Competitive+Programmer;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
 
-## 🚀 About Me
-- 🔭 **Currently building:** Secure applications (like a Self-Destructing Message Vault) and interactive web games (Ludo, Tic-Tac-Toe).
-- 🌱 **Currently learning:** Diving deep into **React**, **Node.js**, and backend architecture to master full-stack development.
-- 👨‍💻 **Coding style:** I thrive on logical problem-solving and love getting into the zone with some solid vibe coding.
-- ⚡ **Fun fact:** When I'm not debugging, you can probably find me watching **Anime**!
-
-## 🛠️ Tech Stack
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-## 📊 GitHub Stats
+<h2 align="center">🚀 About Me</h2>
+<p align="center"><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <ul style="display: inline-block; text-align: left;">
+    <li>🔭 <strong>Currently building:</strong> Secure applications like a Self-Destructing Message Vault and interactive web games.</li>
+    <li>🌱 <strong>Currently learning:</strong> Master of Full-Stack development with <strong>React</strong> and <strong>Node.js</strong>.</li>
+    <li>👨‍💻 <strong>Coding style:</strong> Logical problem-solving and building robust, scalable systems.</li>
+  </ul>
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack Pulse</h2>
+<div align="center">
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Languages" />
+  <p><strong>Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+  <br><br>
+  <p><strong>Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
+  <br><br>
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,leetcode&theme=dark" alt="Languages" />
+  <br><br>
+  <p><strong>Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" alt="Tools" />
 </div>
 
-## 🐍 My Contribution Graph
+<br>
+
+<h2 align="center">🔥 Featured Projects</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/rishab11250/qBit-Coders">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rishab11250&repo=qBit-Coders&theme=radical&show_owner=true" alt="qBit-Coders" />
+  </a>
+  <a href="https://github.com/rishab11250/UDAI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rishab11250&repo=UDAI&theme=radical&show_owner=true" alt="UDAI" />
+  </a>
 </div>
 
-## 📫 Let's Connect
-<p>
-  <a href="mailto:rishab.chandgothia.cg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/rishab-chandgothia-8823112a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/rishab11250"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
+<br>
+
+<h2 align="center">📊 Analytics & Insights</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/rishab11250">
+    <img src="https://leetcard.jacoblin.cool/rishab11250?theme=radical&font=syne&ext=activity" alt="LeetCode Stats" height="195"/>
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <a href="mailto:rishab.chandgothia.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishab-chandgothia-8823112a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/rishab11250">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
