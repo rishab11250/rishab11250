@@ -39,7 +39,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rishab11250&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Languages" />
 </div>
 
 ## 🐍 My Contribution Graph
