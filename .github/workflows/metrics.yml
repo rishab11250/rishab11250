@@ -1,0 +1,52 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: rishab11250
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # Plugin: Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          
+          # Plugin: Languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          # Plugin: Habits (Coding habits & activity)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # Output to the root of the branch
+          filename: github-metrics.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
