@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400&v=1" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Languages" />
 </div>
 
 ## 🐍 My Contribution Graph
