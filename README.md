@@ -10,13 +10,20 @@
 
 ---
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
-  <p>🔭 <b>Currently building:</b> Secure applications like a Self-Destructing Message Vault and interactive web games.</p>
-  <p>🌱 <b>Currently learning:</b> Master of Full-Stack development with <b>React</b> and <b>Node.js</b>.</p>
-  <p>👨‍💻 <b>Coding style:</b> Logical problem-solving and building robust, scalable systems.</p>
-</div>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="left" width="60%" style="border: none; vertical-align: top;">
+      <h2>🚀 About Me</h2>
+      <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
+      <p>🔭 <b>Currently building:</b> Secure applications like a Self-Destructing Message Vault and interactive web games.</p>
+      <p>🌱 <b>Currently learning:</b> Master of Full-Stack development with <b>React</b> and <b>Node.js</b>.</p>
+      <p>👨‍💻 <b>Coding style:</b> Logical problem-solving and building robust, scalable systems.</p>
+    </td>
+    <td align="center" width="40%" style="border: none; vertical-align: middle;">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" alt="Night Vibe Aesthetic" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
