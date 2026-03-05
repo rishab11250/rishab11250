@@ -20,7 +20,7 @@
       <p>👨‍💻 <b>Coding style:</b> Logical problem-solving and building robust, scalable systems.</p>
     </td>
     <td align="center" width="40%" style="border: none; vertical-align: middle;">
-      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" alt="Night Vibe Aesthetic" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding Vibe Night" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
     </td>
   </tr>
 </table>
