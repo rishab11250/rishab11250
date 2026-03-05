@@ -2,24 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rishab%20Chandgothia&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=53" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Secure+Applications;Competitive+Programmer;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Secure+Applications;Competitive+Programmer;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center"><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
 <div align="center">
-  <ul style="display: inline-block; text-align: left;">
-    <li>🔭 <strong>Currently building:</strong> Secure applications like a Self-Destructing Message Vault and interactive web games.</li>
-    <li>🌱 <strong>Currently learning:</strong> Master of Full-Stack development with <strong>React</strong> and <strong>Node.js</strong>.</li>
-    <li>👨‍💻 <strong>Coding style:</strong> Logical problem-solving and building robust, scalable systems.</li>
-  </ul>
+  <h2>🚀 About Me</h2>
+  <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
+  <p>🔭 <b>Currently building:</b> Secure applications like a Self-Destructing Message Vault and interactive web games.</p>
+  <p>🌱 <b>Currently learning:</b> Master of Full-Stack development with <b>React</b> and <b>Node.js</b>.</p>
+  <p>👨‍💻 <b>Coding style:</b> Logical problem-solving and building robust, scalable systems.</p>
 </div>
 
 <br>
