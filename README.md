@@ -15,9 +15,13 @@
     <td align="left" width="60%" style="border: none; vertical-align: top;">
       <h2>🚀 About Me</h2>
       <p><i>Building practical, user-centered applications and turning ideas into reality.</i></p>
-      <p>🔭 <b>Currently building:</b> Secure applications like a Self-Destructing Message Vault and interactive web games.</p>
       <p>🌱 <b>Currently learning:</b> Master of Full-Stack development with <b>React</b> and <b>Node.js</b>.</p>
       <p>👨‍💻 <b>Coding style:</b> Logical problem-solving and building robust, scalable systems.</p>
+      <p>
+  <a href="https://myanimelist.net/profile/Rishab1125" target="_blank">
+    <img src="https://img.shields.io/badge/MyAnimeList-Rishab1125-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList Badge" />
+  </a>
+</p>
     </td>
     <td align="center" width="40%" style="border: none; vertical-align: middle;">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding Vibe Night" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
