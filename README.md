@@ -72,7 +72,16 @@
 </div>
 
 <br>
-
+<h2 align="center">📈 GitHub Productivity</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Rishab's GitHub stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical&border_radius=10" alt="Top Langs" height="180" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishab11250&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
   <picture>
