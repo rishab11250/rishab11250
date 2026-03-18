@@ -56,8 +56,8 @@
   <a href="https://github.com/rishab11250/qBit-Coders">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rishab11250&repo=qBit-Coders&theme=radical&show_owner=true" alt="qBit-Coders" />
   </a>
-  <a href="https://github.com/rishab11250/UDAI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rishab11250&repo=UDAI&theme=radical&show_owner=true" alt="UDAI" />
+  <a href="https://github.com/rishab11250/CURA">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rishab11250&repo=CURA&theme=radical&show_owner=true" alt="CURA" />
   </a>
 </div>
 
