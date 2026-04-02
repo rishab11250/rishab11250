@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
   <br><br>
   <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,leetcode&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="Languages" />
   <br><br>
   <p><strong>Tools</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" alt="Tools" />
