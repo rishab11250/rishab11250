@@ -9,22 +9,7 @@
 
 
 ---
-
-<h2 align="center">📫 Let's Connect</h2>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishab11250.rishab11250" alt="Profile Visitor Counter" />
-  <br><br>
-  <a href="mailto:rishab.chandgothia.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishab-chandgothia-8823112a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/rishab11250">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</div>
-
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=rishab11250.rishab11250" alt="Profile Visitor Counter" /></div>
 <br>
 
 <div align="center">
@@ -46,6 +31,22 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <br><br>
+  <a href="mailto:rishab.chandgothia.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishab-chandgothia-8823112a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/rishab11250">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </div>
 
 <br>
