@@ -47,6 +47,9 @@
   <a href="https://leetcode.com/u/rishab11250">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://drive.google.com/file/d/1k03Z0mzFBmJbRJFzSQ4xyi7kxXnvHLxm/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
 </div>
 
 <br>
