@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:fe428e&height=220&section=header&text=Rishab%20Chandgothia&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rishab%20Chandgothia&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50" alt="Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Applications;DSA+%26+Competitive+Programming;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Applications;DSA+%26+Competitive+Programming;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -62,8 +62,8 @@
 
 <h2 align="center">⚡ Analytics & Insights</h2>
 <div align="center">
-  <a href="https://leetcode.com/rishab11250">
-    <img src="https://leetcard.jacoblin.cool/rishab11250?theme=radical&font=syne&ext=activity" alt="LeetCode Stats" height="195"/>
+  <a href="https://leetcode.com/u/rishab11250">
+    <img src="https://leetcard.jacoblin.cool/rishab11250?theme=nord&font=syne&ext=activity" alt="LeetCode Stats" height="195"/>
   </a>
 </div>
 
@@ -72,13 +72,13 @@
 <h2 align="center">📈 GitHub Productivity</h2>
 <div align="center">
   <a href="https://github.com/rishab11250" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishab11250&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Rishab's GitHub stats" height="180" />
+    <img src="./profile/stats.svg" alt="Rishab's GitHub stats" height="180" />
   </a>
   <a href="https://github.com/rishab11250" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishab11250&layout=compact&theme=radical&border_radius=10" alt="Top Langs" height="180" />
+    <img src="./profile/top-langs.svg" alt="Top Langs" height="180" />
   </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishab11250&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishab11250&theme=github_dark&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -96,5 +96,5 @@
 
 <div align="center">
   <p><i>Off the terminal:</i> <a href="https://myanimelist.net/profile/Rishab1125" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-Rishab1125-2E51A2?style=flat-square&logo=myanimelist&logoColor=white" alt="MyAnimeList Badge" /></a></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:fe428e&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
