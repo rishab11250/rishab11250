@@ -27,7 +27,7 @@ jobs:
       # rotate the card accent so it is never a single fixed color
       - name: Pick a random theme
         id: theme
-        run: echo "name=$(shuf -n 1 -e tokyonight dracula onedark gruvbox cobalt synthwave nightowl nord github_dark github_dark_dimmed)" >> "$GITHUB_OUTPUT"
+        run: echo "name=$(shuf -n 1 -e tokyonight dracula onedark gruvbox nord monokai)" >> "$GITHUB_OUTPUT"
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -43,6 +43,13 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&border_radius=10&theme=${{ steps.theme.outputs.name }}
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: username=${{ github.repository_owner }}&theme=${{ steps.theme.outputs.name }}&column=7&margin-w=8&margin-h=8
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

@@ -53,9 +53,23 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&perline=7&theme=dark" alt="Frontend & Backend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,c,cpp,git,github,postman,figma&perline=7&theme=dark" alt="Databases, Languages & Tools" />
+
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=js,c,cpp&theme=dark" alt="Languages" />
+
+  <p><b>Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="48" height="48" alt="React Native" />
+
+  <p><b>Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+
+  <p><b>Database</b></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database" />
+
+  <p><b>Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark" alt="Tools" />
+
 </div>
 
 <br>
@@ -83,6 +97,13 @@
 
 <br>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+<br>
+
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
   <picture>
@@ -90,6 +111,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishab11250/rishab11250/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br>
+
+<h2 align="center">📈 Contribution Activity</h2>
+<div align="center">
+  <!-- BEGIN ACTIVITY-GRAPH -->
+  <!-- END ACTIVITY-GRAPH -->
 </div>
 
 <br>
